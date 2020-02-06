@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9935cae8-4ebd-4720-9b62-6cc1caa05b65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XPxEBfdUnfY2vCed7Ak9wRnnOP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9935cae8-4ebd-4720-9b62-6cc1caa05b65" name="Default Changelist" comment="" />
+      <created>1580961416238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580961416238</updated>
+      <workItem from="1580961418736" duration="1146000" />
+      <workItem from="1580975630790" duration="3249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="188" key="run.anything.popup" timestamp="1580975825908">
+      <screen x="0" y="23" width="1600" height="797" />
+    </state>
+    <state x="470" y="188" key="run.anything.popup/0.23.1600.797/-1440.64.1440.877@0.23.1600.797" timestamp="1580975825908" />
+    <state x="470" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1580977765687">
+      <screen x="0" y="23" width="1600" height="808" />
+    </state>
+    <state x="470" y="155" width="670" height="676" key="search.everywhere.popup/0.23.1600.808/-1440.64.1440.877@0.23.1600.808" timestamp="1580977765687" />
+  </component>
+</project>

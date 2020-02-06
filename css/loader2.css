@@ -1,0 +1,20 @@
+.loader{
+    font-family: 'Zhi Mang Xing', cursive;
+    font-size: 40px;
+    color: skyblue;
+}
+
+.loader::after{
+    content: '\2026';
+    display: inline-block;
+    overflow: hidden;
+    vertical-align: bottom;
+    animation: dots steps(4, end) 4s infinite;
+    width: 0;
+}
+
+@keyframes dots {
+    to{
+        width: 50px
+    }
+}
